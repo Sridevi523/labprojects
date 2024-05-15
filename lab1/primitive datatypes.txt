@@ -1,0 +1,19 @@
+Data types:
+
+the main purpose of datatype it allocates a particular amount of memory space.
+in main memory for the respected value and it also identifies what type of value 
+we need to store in that variable.
+data types classified into three types
+->primitive
+->non primitive
+->user defined
+primitive: we can able to store only one value in a single variable but not more.
+ ex: int x=10;
+primitive datatypes are again subclassified into 4 
+->int, float, char, Boolean
+int:- category datatype we can able to store only numerical values and we have the dates
+lines byte, short, int, long
+float:-we can store decimal values
+char:-we can store single character. Specify to char with single quote
+Boolean:-we can store true and  false 
+
