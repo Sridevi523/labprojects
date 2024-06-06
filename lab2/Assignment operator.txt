@@ -1,8 +1,0 @@
-Assignment operator:
-The assignment operator in Java, denoted by'='is used to assign a value to a variable. 
-It is a fundamental operator that plays a crucial role in variable initialization and data manipulation within Java programs.
-The syntax for the assignment operator: variable = value;
-Ex:
-store a value into a variable
-int a=10,b=30;
-int c=a+b;
